@@ -95,6 +95,7 @@ select {
     display:flex;
     background-color: #1f2937;
     height:7vh;
+    align-items: center;
     justify-content: space-between;
     position: fixed;
     width: 100%;
@@ -124,7 +125,7 @@ select {
     display:flex;
     justify-content: space-evenly;
     background-color: #1f2937;
-    height: 40vh;
+    height: 50vh;
     padding-left: 15%;
     padding-right: 15%;
     padding-top: 7%;

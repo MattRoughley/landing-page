@@ -143,9 +143,14 @@ select {
     color: #f9faf8;
 }
 .image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: solid black 2px;
+    background-color: grey;
     width: 40%;
     height: 60%;
+    font-size: 20px;
 }
 
 
@@ -185,7 +190,7 @@ select {
 }
 
 .shape{
-    border: solid #3882f6 3px;
+    border: solid #3882f6 4px;
     width: 200px;
     height: 200px;
     border-radius: 15px;
